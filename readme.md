@@ -2,6 +2,10 @@
 
 Este é um projeto de gerenciamento de livros, onde os usuários podem pesquisar, adicionar e deletar livros de uma lista. A aplicação utiliza React para a interface do usuário e Axios para fazer requisições a uma API externa.
 
+## Projeto Publicado
+
+Projeto publicado: [Book Shelf](https://book-shelf-liard-eight.vercel.app/) 
+
 ## Funcionalidades
 
 - **Pesquisa de Livros**: Os usuários podem buscar livros por título ou gênero.
