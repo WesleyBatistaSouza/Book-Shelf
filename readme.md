@@ -1,6 +1,6 @@
 # Projeto de Livros - Book Shelf
 
-Este é um projeto de gerenciamento de livros, onde os usuários podem pesquisar, adicionar e deletar livros de uma lista. A aplicação utiliza React para a interface do usuário e Axios para fazer requisições a uma API externa.
+Este é um projeto de gerenciamento de livros, onde os usuários podem pesquisar livros de uma lista. A aplicação utiliza React para a interface do usuário e Axios para fazer requisições a uma API externa.
 
 ## Projeto Publicado
 
